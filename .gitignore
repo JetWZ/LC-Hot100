@@ -2,6 +2,9 @@
 .venv/
 venv/
 
+# VScode 配置文件
+.vscode/
+
 # Jupyter 缓存
 .ipynb_checkpoints/
 
